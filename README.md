@@ -1,4 +1,4 @@
-### Hello, I'm Daniel Escobar Molina 👋
+### 👋 Hello, I'm Daniel Escobar Molina 👋
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniiGG&theme=tokyonight"></p>
 
