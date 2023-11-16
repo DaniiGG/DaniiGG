@@ -1,6 +1,9 @@
 ### Hello, I'm Daniel Escobar Molina 👋
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniiGG&theme=tokyonight"></p>
+p{
+text-align: center;
+}
 <!--
 **DaniiGG/DaniiGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
